@@ -1,6 +1,4 @@
-# Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
-
-### DATE: 02.12.2023
+# Ex.No.6.2 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ## AIM: 
  To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -45,7 +43,7 @@
 ![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/a2228326-6899-4760-9b7f-dbf2334505da)
 ![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/7c451afd-ba8c-4935-95cb-1cb6f2c622e5)
 
-### Name:MOHAMED FAROOK S
+### Name: MOHAMED FAROOK S
 ### Register Number: 23014058
 
 ## Result: 
